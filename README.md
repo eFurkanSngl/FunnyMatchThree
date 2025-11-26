@@ -77,7 +77,7 @@ Dynamic camera scaling based on screen aspect ratio
 
 Responsive UI layout and properly configured Canvas settings
 
-
+I developed a mobile-friendly Match-3 puzzle game using Unity and C#. I built a structure with level progression and score-based objectives. I created a clean, modular architecture that adhered to OOP principles and developed an event-driven system with UnityEvent/UnityAction. I managed communication between gameplay components in a loosely coupled structure. I designed fluid animations for box movements, effects, and UI transitions using DOTween. I integrated custom Power-Up systems like vertical, horizontal, and diagonal bombs based on match types. I used Object Pooling to efficiently integrate particles and dynamic objects into the scene. I developed a responsive UI system compatible with Safe Zones and different screen ratios. I created a settings menu with SFX/Music controls and a data logging system using PlayerPrefs. I managed the project regularly with Git. Safe Zone and Aspect Ratio optimizations ensured full compatibility with different device screens. All scores, levels, and user preferences were managed using PlayerPrefs.
 
 Game Referance:
 
